@@ -1,0 +1,13 @@
+id_name: multiply-by
+name: Multiply by
+category: Clean
+description: Multiplies the selected column(s) by the given constant
+parameters:
+    - id_name: constant
+      name: Number
+      default: 1
+      type: float
+    - id_name: columns
+      name: Columns
+      type: multicolumn
+      column_types: [number]
