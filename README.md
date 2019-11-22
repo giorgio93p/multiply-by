@@ -1,2 +1,2 @@
 # multiply-by
-A simple module for Workbench, for educational purposes
+A simple module for Workbench, for educational purposes.
