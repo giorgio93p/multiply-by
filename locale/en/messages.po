@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2020-01-08 13:15+0000\n"
+"POT-Creation-Date: 2020-01-27 15:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -17,20 +17,21 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.7.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 msgid "_spec.name"
 msgstr "Multiply by"
 
 msgid "_spec.description"
-msgstr "Multiplies one or more columns by a given constant"
+msgstr "Multiplies the selected column(s) by the given constant"
+
+msgid "_spec.parameters.constant.name"
+msgstr "Number"
 
 msgid "_spec.parameters.columns.name"
 msgstr "Columns"
 
-msgid "_spec.parameters.number.name"
-msgstr "Number"
-
+#: multiply-by.py:7
 msgid "is_negative"
 msgstr "The number is negative"
 
